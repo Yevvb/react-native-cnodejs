@@ -6,7 +6,25 @@ API由 https://cnodejs.org/api 提供
 
 在官方提供的API之外，增加搜索入口和个人资料入口。
 
-# 说明
+# 运行方法
+
+git clone
+
+npm intall 或者 yarn (如果你安装了)
+
+react-native run-ios 接着 react-native start（运行IOS项目） 需要xcode模拟器
+
+或者 
+
+react-native run-android 接着 react-native start（运行安卓项目）需要安卓模拟器
+
+以上具体运行过程，请参考react-native 官方文档
+
+中文文档 https://reactnative.cn/docs/0.48/getting-started.html
+
+英文文档 https://facebook.github.io/react-native/docs/getting-started.html
+
+# 项目说明
 
 这个项目之间断断续续花了差不多12天时间，之前有一点react基础，因此做react-native上手就稍微快了。
 
